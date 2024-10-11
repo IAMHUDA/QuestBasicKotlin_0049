@@ -35,6 +35,7 @@ fun ContohList() {
 //set bersifat muteable dan read only ,artinya data yang di masukkan dapat diubah dan tidak dapat diubah
 //set read only menggunakan setOf
 //set muteable menggunakan muteablesetof
+
 fun ContohSet(){
     println()
     println("=== Set ===")
