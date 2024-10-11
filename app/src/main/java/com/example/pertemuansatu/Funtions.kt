@@ -12,6 +12,7 @@ fun withParameter(name: String) {
     println("hello $name")
 }
 
+
 //name argumen merupakan cara untuk memanggil fungsi dengan menyebutkan nama parameter
 fun withNamedArgument(name:String, age:Int) {
     println()
