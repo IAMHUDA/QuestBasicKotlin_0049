@@ -26,6 +26,7 @@ fun withDefaultParameter(name: String = "Huda", age:Int) {
     println("'Hello ,$name you are $age years old")
 }
 
+
 fun withReturn(panjang: Int, lebar: Int): Int {
     val hasil = panjang * lebar
     println(hasil)
