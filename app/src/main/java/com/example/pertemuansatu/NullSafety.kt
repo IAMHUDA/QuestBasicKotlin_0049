@@ -7,6 +7,7 @@ fun nullSafety() {
     //throws a compiler erorr
     //never null = null
 
+
     //nullable has nullable string type
     var nullable: String? = "you can keep a null here"
     //this oke
